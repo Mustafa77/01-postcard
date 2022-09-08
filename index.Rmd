@@ -1,45 +1,55 @@
 ---
-title: "Sigríður Björndotter"
-image: "sigridur.jpg"
+title: "Mustafa Mohd, MD, MPH"
+image: "Mustafa_link.jpg"
 links:
-  - label: Resume
-    url: "https://linkedin.com/"
-  - label: Blog
-    url: "https://medium.com/"
-  - label: SoundCloud
-    url: "https://soundcloud.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/mustafa-o-a-mohd-58b702126/"
+  - label: GitHub
+    url: "https://github.com/Mustafa77"
+  - label: Email
+    url: "mailto:mmohdsh@gmail.com"
 output:
-  postcards::solana
+  postcards::trestles
 ---
  
 ## Bio
 
-Sigríður Björndotter is a musician, vocalist, and live entertainment consultant
-living in Buenos Aires, Argentina. Her writing has appeared in Rolling Stone,
-Billboard, and NME, and she is a frequent contributor to National Public Radio's 
-*All Songs Considered*. She has been raising Pembroke Welsh Corgis since the age
-of six, and she has collected Casio watches since the age of ten.
+An epidemiologist physician with an interest in the application of data science in healthcare quality Improvement, patient safety, and population health. Furthermore, I taught several graduate courses in data analysis and data visualization, in addition to being invited as a guest lecturer in several courses.
 
 ## Education
 
-**INSEAD** | Fontainebleau, France
+**University of Alabama at Birmingham (UAB)** | Birmingham, AL
 
-M.B.A. | August 2014 - June 2015
+Master of Public Health (MPH)
 
-**The Juilliard School** | New York, NY
+**Royal College of Surgeons in Ireland (RCSI)** | Dublin, Ireland
 
-B.F.A. in Music Performance | August 2005 - May 2009
+Clinical Diploma in Child Health (DCH) 
+
+**Jordan University of science and Technology (JUST)** | Irbid, Jordan
+
+Medical Doctor (MD) 
+
+## Certifications
+
+**Harvard University** | Online Professional Certification
+Professional Certification in Data Science –  (Based on 9 Courses & Capstone)
+
+**Stanford University** | Online Professional Certification
+Certification in Artificial Intelligence in Healthcare– (Based on 5 Courses)
+
+**Certification Board for Professionals in Patient Safety (CBPPS)** |
+Certified Professional in Patient Safety (CPPS)
+
+**American Health Information Management Association (AHIMA)** |
+Certified Health Data Analyst (CHDA) 
+
+**National Association for Healthcare Quality (NAHQ)** |
+Certified Professional in Healthcare Quality (CPHQ), 
+
 
 ## Experience
 
-**Freelance** | Live Entertainment Consultant | August 2018 - Present
+**Contract based** | Clinical Research/Epidemiology Consultant | 2009 - Present
 
-**Cercle** | Producer | August 2018 - Present
-
-**National Public Radio** | Producer | May 2015 - July 2018
-
-**NME Magazine** | Editor | July 2014 - July 2016
-
-**Iceland Symphony Orchestra** | Cellist | October 2009 - June 2014
+**School of Public Health, UAB**| Instructor/Clinical Data Analyst| 2005 - 2009
